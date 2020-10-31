@@ -1,0 +1,9 @@
+{
+  "packages": [
+    {
+      "name": "QKSMS",
+      "packageName": "com.moez.QKSMS",
+      "type": "fdroid"
+    }
+  ]
+}
